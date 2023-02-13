@@ -7,7 +7,6 @@ I am a second-year student of Computer Science at the Dolnośląska Szkoła Wyż
 
 ## 🔭 I'm currently working on
 
-- cryptocurriencies (Vue project)
 - Fake insta (Vue project)
 - Bomberman (JavaScript project)
 
