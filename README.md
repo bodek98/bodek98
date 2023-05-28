@@ -4,11 +4,10 @@ Hi there, I'm Artur 👋
 </h3>
 I am a second-year student of Computer Science at the Dolnośląska Szkoła Wyższa in Wrocław. I would like to start my front-end adventure.
 
-
+<!-- 
 ## 🔭 I'm currently working on
 
-- Fake insta (Vue project)
-- Bomberman (JavaScript project)
+- Fake insta (Vue project) -->
 
 ## 💼 Technical Skills
 
