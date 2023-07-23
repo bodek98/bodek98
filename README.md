@@ -1,4 +1,4 @@
-# 💻 About
+## 💻 About
 <h3 align="center">
 Front-End Enthusiast | HTML, CSS, JavaScript, Vue 3 | Seeking Opportunities
 </h3>
